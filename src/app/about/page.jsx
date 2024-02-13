@@ -57,15 +57,12 @@ const About = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-              harum quibusdam cupiditate nobis accusamus sed aut aperiam,
-              reiciendis numquam! Voluptas voluptatibus obcaecati dolore itaque
-              suscipit! Vel doloremque numquam quam nihil.
+              I'm Md Samiul Islam, a 25 year old full-stack developer who's deeply passionate about coding and building cool stuff on the web. Over the past three years, I've dived headfirst into the world of JavaScript, React, Node.js, MongoDB, and more, honing my skills and working on a ton of exciting projects along the way. From crafting sleek user interfaces to wrangling data on the backend, I love the challenge of bringing ideas to life through code. Currently, I'm juggling my professional work with studies at the National University.
             </p>
             <div>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Amidst the chaos of existence, find solace in the melody of your own heartbeat.
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="flex justify-end md:justify-">

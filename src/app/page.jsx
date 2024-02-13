@@ -19,12 +19,13 @@ const Homepage = () => {
         {/* text container */}
         <div className="h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
           <h1 className="text-4xl font-bold">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+            Crafting Digital Experiences, Designing Tomorrow
           </h1>
           <p className="">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-            reprehenderit itaque at dicta dignissimos dolorem ullam excepturi
-            porro perspiciatis minus?
+            Welcome to my digital canvas, where innovation and creativity
+            converge. With a keen eye for aesthetics and a mastery of code, my
+            portfolio showcases a diverse collection of projects that reflect my
+            commitment to excellence.
           </p>
           <div className="flex gap-4 w-full pb-12 lg:pb-0">
             <Link href="/portfolio">
