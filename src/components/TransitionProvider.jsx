@@ -2,7 +2,6 @@
 import { motion, AnimatePresence } from "framer-motion";
 import Navbar from "./Navbar";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from 'react';
 
 const TransitionProvider = ({ children }) => {
   const pathname = usePathname();

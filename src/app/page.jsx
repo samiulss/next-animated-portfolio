@@ -21,7 +21,7 @@ const Homepage = () => {
           <h1 className="text-4xl font-bold">
             Crafting Digital Experiences, Designing Tomorrow
           </h1>
-          <p className="">
+          <p>
             Welcome to my digital canvas, where innovation and creativity
             converge. With a keen eye for aesthetics and a mastery of code, my
             portfolio showcases a diverse collection of projects that reflect my
